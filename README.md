@@ -1,5 +1,6 @@
-# Aparat Downloader
-1. Enter your links in `Links.txt` file, Every link in one line.
-2. Install BeautifulSoup library:  
+# دانلود کننده سایت آپارات
+1. لینک‌های ویدئوها را درون فایل Links.txt کنار اسکریپت بریزید. هر لینک درون یک فایل.
+2. کتابخانه BeautifulSoup نصب کنید:  
 	`pip install beautifulsoup4`
-3. Run the `Aparat_Download.py` script.
+3. اسکریپت Aparat_Download.py را اجرا کنید.  
+4. بعد از اجرای اسکریپت کیفیت دانلود را تعیین کنید، بعد از اتمام دانلود، ویدئوها با اسم عنوان ویدئو در پوشه Downloads ذخیره شده‌اند.
